@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "mhrownaghi/nika-bookstore",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "description": "The application for building a e-commerce bookstore with the Laravel framework.",
+    "keywords": ["laravel", "bookstore", "e-commerce"],
     "license": "MIT",
     "require": {
         "php": "^8.1",
